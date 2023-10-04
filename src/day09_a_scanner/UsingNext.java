@@ -16,6 +16,7 @@ public class UsingNext {
         System.out.println("First Name: " + name);
 
 
+
         System.out.print("Enter your last name: ");
         String lastName = input.next();
 

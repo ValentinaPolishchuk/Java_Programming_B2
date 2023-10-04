@@ -15,6 +15,7 @@ public class Order {
             Output: Luke, your order for 5 Apples has been places. Your total is 7.5.
 
     */
+
     public static void main(String[] args) {
         Scanner key = new Scanner(System.in);
         System.out.print("Please, enter a product name: ");

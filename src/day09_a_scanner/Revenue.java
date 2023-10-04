@@ -8,6 +8,7 @@ import java.util.Scanner;
              Calculation: revenue = price × quantity.
 
         */
+
         public static void main (String [] args) {
             // 1) First I need to import the package that has the Scanner class in it
             // 2) Then I need to create an OBJECT of the Scanner class
