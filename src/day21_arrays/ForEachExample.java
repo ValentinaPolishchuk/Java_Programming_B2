@@ -52,6 +52,7 @@ public class ForEachExample {
 
         for (double eachNum : prices) {
             System.out.println("Each: $" + eachNum);
+
         }
     }
 }

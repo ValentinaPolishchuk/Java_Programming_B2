@@ -26,6 +26,5 @@ public class FriendList {
 
         System.out.println(Arrays.toString(friendNameList));
 
-
     }
 }

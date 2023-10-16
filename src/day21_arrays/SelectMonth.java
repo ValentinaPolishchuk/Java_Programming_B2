@@ -29,10 +29,5 @@ public class SelectMonth {
             System.out.println("Sorry, invalid input");
         }
 
-
-
-
-
-
     }
 }

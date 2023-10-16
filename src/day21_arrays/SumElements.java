@@ -23,5 +23,4 @@ public class SumElements {
         System.out.println("Sum of total: " + sum);
 
     }
-
 }

@@ -21,7 +21,6 @@ public class SelectWeekDay {
             System.out.println("Sorry, invalid input");
         }
 
-
         // Ask a user to enter the valid input until it is actually valid.
     }
 }

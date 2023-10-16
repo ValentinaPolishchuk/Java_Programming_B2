@@ -33,7 +33,6 @@ public class Store {
         System.out.println(Arrays.toString(items).toLowerCase().contains("jacket") ? "We have it" : "We do not have it");
 
 
-
         // As a user to give you how many items are in stock
         // Then store those item names into String array by asking items name to the user
         // Then ask a user which item they are looking for.

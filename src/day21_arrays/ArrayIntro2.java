@@ -45,6 +45,5 @@ public class ArrayIntro2 {
         char [] arr2 = new char[]{1, 4, 5, 8};
         System.out.println(arr2.length);  //  4
 
-
     }
 }

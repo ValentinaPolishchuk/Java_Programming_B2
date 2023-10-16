@@ -37,7 +37,6 @@ public class StudentInformation {
 
         System.out.println(Arrays.toString(studentThree));
 
-
         System.out.println("_____________________________________-");
         String [] questions = {"Enter id: ", "Enter name: ", "Enter lastname: ", "Enter batch number: "};
         //                         0              1                 2                       3

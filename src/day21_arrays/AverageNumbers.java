@@ -32,6 +32,5 @@ public class AverageNumbers {
         }
         System.out.println("Average: " + (sum2/arr.length));
 
-
     }
 }
