@@ -33,9 +33,5 @@ public class StringStringBuilderStringBuffer {
         str4.reverse();
         System.out.println(str4);
 
-
-
-
-
     }
 }

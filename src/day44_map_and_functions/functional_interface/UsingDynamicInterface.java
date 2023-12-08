@@ -30,7 +30,6 @@ public class UsingDynamicInterface {
 
         printUpUntil.test(5);
 
-
     }
 
 }

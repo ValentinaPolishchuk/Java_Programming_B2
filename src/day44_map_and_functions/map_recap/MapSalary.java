@@ -102,7 +102,6 @@ public class MapSalary {
             map.put(each.getKey(), each.getValue() + 20_000);
         }
         System.out.println(map);
-
     }
 }
 /*
